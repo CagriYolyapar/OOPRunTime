@@ -8,5 +8,8 @@ namespace OOPRuntime_0.Models
 {
     public abstract class BaseEntity
     {
+        public string Metin { get; set; }
+
+
     }
 }
