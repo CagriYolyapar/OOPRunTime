@@ -8,5 +8,6 @@ namespace OOPRuntime_0.Models
 {
     public abstract class BaseEntity
     {
+        public int Sayi { get; set; }
     }
 }
